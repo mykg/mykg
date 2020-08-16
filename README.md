@@ -5,8 +5,6 @@
 ---
 
 
-⚡ Currently, I'm seeking opportunities that will allow me to develop and promote technologies that benefits the Mankind.
-
 Fields of interests are : Hybrid Cloud Computing and DevOps
 
 
