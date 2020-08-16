@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Mayank Gaur 
-[![Linkedin Badge](https://img.shields.io/badge/-mayankgaur-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mynkg/)](https://www.linkedin.com/in/mynkg/) [![Twitter Badge](http://img.shields.io/badge/-@mayankgaur-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/_mynk_g)](https://twitter.com/_mynk_g) 
+[![Linkedin Badge](https://img.shields.io/badge/-mayankgaur-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mynkg/)](https://www.linkedin.com/in/mynkg/) [![Twitter Badge](http://img.shields.io/badge/-mayankgaur-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/_mynk_g)](https://twitter.com/_mynk_g) 
 ---
 
 
